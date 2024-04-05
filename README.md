@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://github.com/ovictoruivo/ovictoruivo/assets/92313684/a57ab68f-a7a0-49e8-be72-acd232a80087" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="https://github.com/ovictoruivo/ovictoruivo/assets/92313684/a57ab68f-a7a0-49e8-be72-acd232a80087" min-width="350px" max-width="350px" width="300px" align="right">
 
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" />
