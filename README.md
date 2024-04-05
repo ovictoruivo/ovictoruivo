@@ -1,28 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=900&height=60&lines=Ol%C3%A1%2C+Mundo!+Me+chamo+Victor+Santos;Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
-## 💭 Sobre Mim
-
-- Sou desenvolvedor desde 2020, quando troquei a faculdade de engenharia civil para entrar em análise e desenvolvimento de sistemas... mas a programação já está presente desde os meus 14 anos, época em que comecei a me aventurar nesse mundo com interesse em criar jogos com meus amigos da escola.
-
-👇🏻 Sinta-se a vontade para entrar em contato comigo 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Santos-a259ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhgsantos/)](https://www.linkedin.com/in/victorhgsantos/)
-[![Gmail Badge](https://img.shields.io/badge/-victorhgsantos98@gmail.com-a259ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorhgsantos98@gmail.com)](mailto:victorhgsantos98@gmail.com)
+<h3 
+  align="center">
+    Hello World! I’m Victor Santos 
+    <img 
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" 
+      width="40" 
+      height="40"
+    />
+</h3>
 
 ---
 
-## 🚀 Minhas Skills
+<img src="https://github.com/ovictoruivo/ovictoruivo/assets/92313684/a57ab68f-a7a0-49e8-be72-acd232a80087" min-width="350px" max-width="350px" width="350px" align="right">
 
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git"/><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" />
+  About Me
+</h3>
+
+- 🥇 Graduated in Systems Analysis and Development from `UNINOVE`
+- 💻 I'm a full stack developer passionate about technology
+- 👾 Some of my hobbies are games, animes and gym
+- 🌱 Constantly growing
+
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="16" height="16" />
+  Feel free to contact me
+</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Santos-9745f5?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhgsantos/)](https://www.linkedin.com/in/victorhgsantos/)
+[![Gmail Badge](https://img.shields.io/badge/-victorhgsantos98@gmail.com-9745f5?style=rounded&logo=Gmail&logoColor=white&link=mailto:victorhgsantos98@gmail.com)](mailto:victorhgsantos98@gmail.com)
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+  Skills
+</h3>
 
-[![card](https://github-readme-stats.vercel.app/api?username=ovictoruivo&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
+  <a href="https://skillicons.dev">
+  <img width="400" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" />
+  <br>
+  <img width="400" src="https://skillicons.dev/icons?i=nodejs,jest,py,java,mysql,postgres,docker,prisma&theme=dark" />
+  <br>
+  <img width="200" src="https://skillicons.dev/icons?i=git,figma,vscode,eclipse&theme=dark" />
+  </a>
+</div>
 
 ---
 
-> “O conhecimento é a chave que abre as portas da oportunidade.” – Benjamin Franklin
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+  GitHub Stats
+</h3>
+
+<div align="center">
+  
+[![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovictoruivo&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's GitHub Streak](https://streak-stats.demolab.com?user=ovictoruivo&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+</div>
+
+---
+
+> _“Technology moves the world.” – Steve Jobs_
